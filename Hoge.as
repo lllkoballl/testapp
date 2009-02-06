@@ -1,4 +1,4 @@
-pakcuge
+package
 {
     import flash.display.*;
 
