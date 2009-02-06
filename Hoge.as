@@ -6,7 +6,7 @@ pakcuge
     {
         public function Hoge()
         {
-            trace("hoge");
+            trace("hoge hoge");
         }
     }
 }
