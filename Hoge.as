@@ -7,6 +7,7 @@ package
         public function Hoge()
         {
             trace("hoge hoge");
+            trace("mmm");
         }
     }
 }
