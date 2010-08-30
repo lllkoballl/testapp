@@ -10,6 +10,7 @@ package
             trace("mmm");
             trace("ほげほげほｇ");
             trace("っっっっっっっらんちー");
+            trace("ああああ");
         }
     }
 }
