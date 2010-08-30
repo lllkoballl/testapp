@@ -8,6 +8,7 @@ package
         {
             trace("hoge hoge");
             trace("mmm");
+            trace("っっっっっっっらんちー");
         }
     }
 }
